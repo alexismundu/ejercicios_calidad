@@ -1,0 +1,15 @@
+{
+  "name": "fff-connectors",
+  "version": "1.0.0",
+  "description": "fff project to UC Davis",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "coverage run -m pytest",
+    "coverage": "coverage report"
+  },
+  "keywords": [],
+  "author": "Alexis Munoz",
+  "license": "ISC"
+}
