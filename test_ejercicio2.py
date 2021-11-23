@@ -1,6 +1,6 @@
-import ejercicio2
+from ejercicio2 import maximo
 
 
 def test__all_variables_son_iguales():
-    res = ejercicio2.maximo(1, 1,1)
+    res = maximo(1, 1, 1)
     assert res == 1

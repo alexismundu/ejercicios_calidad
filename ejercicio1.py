@@ -1,4 +1,4 @@
-def funcion(x, y):
+def MCD(x, y):
     if x <= 0 or y <= 0:
         print("deben ser no negativos")
         return -1
