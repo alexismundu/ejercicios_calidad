@@ -1,11 +1,4 @@
-def maximo(x,y,z):
-    max=0
-    if x>y and x>z:
-        max=x
-    else:
-        if z>y:
-            max=z
-        else:
-            max=y
-    print(max)
-    return max
+def maximo(x, y, z):
+    if x > y and x > z:
+        return x
+    return z if z > y else y
