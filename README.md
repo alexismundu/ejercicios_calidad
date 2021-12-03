@@ -7,6 +7,9 @@ pip install -U pytest
 ```
 pip install coverage
 ```
+```
+pip install radon
+```
 
 # Run tests
 ```
