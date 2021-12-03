@@ -11,5 +11,8 @@
   },
   "keywords": [],
   "author": "Alexis Munoz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "radom": "^0.1.1"
+  }
 }
